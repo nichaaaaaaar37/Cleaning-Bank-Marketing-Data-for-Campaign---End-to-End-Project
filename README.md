@@ -24,6 +24,10 @@ Transforming raw data using Jupyter Notebook and the Pandas library on Google Cl
 ### 3. Final Data Repository
 Leverage Google Cloud Storage to securely store the cleaned data, ensuring it is readily available for future use in data analysis. This stored data can then be easily integrated with Google BigQuery, allowing for efficient querying and in-depth analysis to gain valuable insights and make data-driven decisions.
 
+### 4. Data Warehouse & Analytics
+Leverage  Google BigQuery for efficient querying and analysis to gain insights for data-driven decisions. The cleaned data is formatted according to the bank's requirements, making it ready for future marketing campaigns."
+
+
 
 
 
