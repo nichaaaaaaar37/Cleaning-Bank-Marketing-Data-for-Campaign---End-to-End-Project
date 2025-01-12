@@ -8,7 +8,7 @@ Tasked with cleaning and reformatting marketing campaign data on personal loans 
 
 ## Pipeline Architecture
 ### 1. Data Extraction
-Upload the raw data file : '''bank_marketing.csv''' to a designated Google Cloud Storage bucket for centralized access.
+Upload the raw data file : 'bank_marketing.csv' to a designated Google Cloud Storage bucket for centralized access.
 
 ### 2. Data Transformation
 Transforming raw data using Jupyter Notebook and the Pandas library on Google Cloud Storage to clean, reformat, and split the data into t3 final CSV files: 
