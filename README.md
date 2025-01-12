@@ -1,4 +1,4 @@
-# ETL Pipeline for Bank Marketing Campaign Data |End-to-End-Project
+# ETL Pipeline for Bank Marketing Campaign Data | End-to-End-Project
 
 ## Overview
 This project demonstrates a fully functional ETL pipeline that extracts, transforms (including sanitization of data using the Pandas library), loads, and analyzes data. The pipeline leverages Google Cloud Platform (GCP) services such as Cloud Storage and BigQuery.
