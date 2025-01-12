@@ -15,17 +15,9 @@ Tasked with cleaning and reformatting marketing campaign data on personal loans 
 
 `Pandas` : A powerful Python library for data manipulation and analysis. It provides data structures like DataFrame, which are used for working with structured data, making tasks like cleaning, transforming, and analyzing data much easier.
 
-
-
-
-
-
-
 ## Pipeline Architecture
 
-
 ![bmd](https://github.com/user-attachments/assets/c931eb59-ee49-456b-b568-d5973579d752)
-
 
 ### 1. Data Extraction
 Upload the raw data file : `bank_marketing.csv` to a designated Google Cloud Storage bucket for centralized access.
