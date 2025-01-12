@@ -6,6 +6,21 @@ This project demonstrates a fully functional ETL pipeline that extracts, transfo
 ## Objective
 Tasked with cleaning and reformatting marketing campaign data on personal loans to meet specified structure and data types for BigQuery, enabling storage and seamless integration of future campaigns. The bank has supplied a CSV file, `bank_marketing.csv`, which needs to be processed, sanitized using the Pandas library, and split into three final CSV files for further analysis.
 
+## Tools
+`Google Cloud Storage` : A scalable, secure cloud storage service from Google that allows users to store and retrieve large amounts of data. It is often used for data backup, archival, and serving content.
+
+`Google BigQuery` : A fully managed, serverless data warehouse service by Google, designed for running fast SQL queries on large datasets. It is ideal for analyzing big data and building data analytics applications.
+
+`Jupyter Notebook`: An open-source web application that allows users to create and share documents containing live code, equations, visualizations, and narrative text. It is widely used in data science and machine learning for interactive analysis and exploration.
+
+`Pandas` : A powerful Python library for data manipulation and analysis. It provides data structures like DataFrame, which are used for working with structured data, making tasks like cleaning, transforming, and analyzing data much easier.
+
+
+
+
+
+
+
 ## Pipeline Architecture
 
 
