@@ -21,16 +21,13 @@ Tasked with cleaning and reformatting marketing campaign data on personal loans 
 
 ### 1. Data Extraction
 Upload the raw data file : `bank_marketing.csv` to a designated Google Cloud Storage bucket for centralized access.
-
 ### 2. Data Transformation
 Transforming raw data using Jupyter Notebook and the Pandas library on Google Cloud Storage to clean, reformat, and split the data into t3 final CSV files: 
 1. `campaigns.csv`
 2. `client.csv`
 3. `economics.csv.`
-
 ### 3. Final Data Repository
 Leverage Google Cloud Storage to securely store the cleaned data, ensuring it is readily available for future use in data analysis. This stored data can then be easily integrated with Google BigQuery, allowing for efficient querying and in-depth analysis to gain valuable insights and make data-driven decisions.
-
 ### 4. Data Warehouse & Analytics
 Leverage  Google BigQuery for efficient querying and analysis to gain insights for data-driven decisions. The cleaned data is formatted according to the bank's requirements, making it ready for future marketing campaigns."
 
