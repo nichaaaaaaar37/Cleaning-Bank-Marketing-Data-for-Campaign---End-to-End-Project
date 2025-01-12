@@ -12,7 +12,7 @@ Upload the raw data file : '''bank_marketing.csv''' to a designated Google Cloud
 
 ### 2. Data Transformation
 Transforming raw data using Jupyter Notebook and the Pandas library on Google Cloud Storage to clean, reformat, and split the data into t3 final CSV files: 
-1. '''campaigns.csv'''
+1. '''campaigns.csv
 2. client.csv
 3. economics.csv.
 
