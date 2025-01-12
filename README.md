@@ -9,6 +9,7 @@ Tasked with cleaning and reformatting marketing campaign data on personal loans 
 ## Pipeline Architecture
 
 
+![bmd](https://github.com/user-attachments/assets/c931eb59-ee49-456b-b568-d5973579d752)
 
 
 ### 1. Data Extraction
